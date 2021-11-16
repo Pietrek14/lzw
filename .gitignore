@@ -1,0 +1,5 @@
+bitstream/
+.vscode/
+compressed.lzw
+compressed.txt
+main.exe
